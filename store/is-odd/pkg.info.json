@@ -1,0 +1,9 @@
+{
+    "name": "is-odd",
+    "main": "index.js",
+    "version": "[ANY]",
+    "deps": {
+        "is-even": "[ANY]"
+    }
+
+}
